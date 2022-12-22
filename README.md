@@ -10,7 +10,7 @@ npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yu
 
 ---
 Currently BACK-END 
-https://github.com/Hacking-NASSA-with-HTML/backend_nikky_pedia_1_01 deployed on Render
+https://github.com/Hacking-NASSA-with-HTML/render_back-end_nikky_pedia_1_01 deployed on Render
 
 ### https://render-back-end-nikky-pedia.onrender.com 
 
