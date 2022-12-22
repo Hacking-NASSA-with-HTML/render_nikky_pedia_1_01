@@ -15,7 +15,8 @@ https://github.com/Hacking-NASSA-with-HTML/backend_nikky_pedia_1_01 deployed on 
 
  https://render-back-end-nikky-pedia.onrender.com 
 
-    FRONT-END deployed on https://nikky-pedia-r.netlify.app 
+    FRONT-END deployed on https://nikky-pedia-r.netlify.app
+
 
 
 ![](https://github.com/Hacking-NASSA-with-HTML/nikky_pedia/blob/main/Nikky-pedia.gif)
