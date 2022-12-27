@@ -1,4 +1,4 @@
-# Render nikky_pedia_1_01 front-end part.
+# Render Nikky_pedia 1_01 front-end part.
 
 ## Front-end part of Educational FULL-STACK JavasScript React app about Nicole Kidman.
 
