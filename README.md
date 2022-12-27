@@ -1,7 +1,9 @@
-# Render nikky_pedia_1_01
+# Render nikky_pedia_1_01 front-end part.
 
-## Educational FULL-STACK JavasScript React app about Nicole Kidman.
+## Front-end part of Educational FULL-STACK JavasScript React app about Nicole Kidman.
+
 ---
+
 front-end kit:
 
 ```js
@@ -10,11 +12,14 @@ npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yu
 
 ---
 Currently BACK-END 
-https://github.com/Hacking-NASSA-with-HTML/render_back-end_nikky_pedia_1_01 deployed on Render
+
+### https://github.com/Hacking-NASSA-with-HTML/render_back-end_nikky_pedia_1_01 
+
+deployed on Render:
 
 ### https://render-back-end-nikky-pedia.onrender.com 
 
-And FRONT-END deployed on 
+And FRONT-END deployed on Netlify:
 
 ### https://nikky-pedia-r.netlify.app
 
